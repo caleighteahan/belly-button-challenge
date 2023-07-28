@@ -1,11 +1,13 @@
 Module 14 Challenge
 
-Background
+Background:
+
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-Before You Begin
+Before You Begin:
+
 Create a new repository for this project called belly-button-challenge. Do not add this Challenge to an existing repository.
 
 Clone the new repository to your computer.
@@ -13,7 +15,9 @@ Clone the new repository to your computer.
 Inside your local git repository, copy the files from in the StarterCode folder contained within the Module 14 Challenge zip file. i.e. index.html, samples.json, and the static folder.
 
 
-Instructions: Complete the following steps:
+Instructions: 
+
+Complete the following steps:
 
 Use the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
 
